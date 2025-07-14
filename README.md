@@ -10,10 +10,7 @@ Updating every 30 minutes.
 - [SuperSub](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/subs/super-sub.txt)
 
 ### Protocol-Based Subscriptions
-- [VMESS](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/filtered/subs/vmess.txt)
-- [VLESS](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/filtered/subs/vless.txt)
-- [TROJAN](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/filtered/subs/trojan.txt)
-- [SS](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/filtered/subs/ss.txt)
+
 ### Sub Subscriptions
 - [Sub1](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/subs/sub1.txt)
 - [Sub2](https://raw.githubusercontent.com/tahmaseb73/v2ray-configs/configs/v2ray/subs/sub2.txt)
